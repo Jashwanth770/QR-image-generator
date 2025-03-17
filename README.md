@@ -10,6 +10,12 @@ Developed a QR Code Generator to create scannable codes for resumes, websites, a
 
 
 package to be install
+
+
 1.npm i inquirer
+
+
 2.npm i qr-image
+
+
 or npm i inquirer qr-image
